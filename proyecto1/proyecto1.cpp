@@ -65,7 +65,7 @@ double leerDecimal(string mensaje, double minimo, double maximo) {
 
 void mostrarMenu() {
     cout << "\n==============================\n";
-    cout << "     KICKBOXING\n";
+    cout << "     KICKBOXING LEGEND\n";
     cout << "==============================\n";
     cout << "1. Registrar producto\n";
     cout << "2. Mostrar todos los productos\n";
