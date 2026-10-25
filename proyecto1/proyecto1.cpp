@@ -79,7 +79,7 @@ void mostrarMenu() {
 // Carga 10 productos de ejemplo, cada uno con stock 10. Devuelve cuantos cargo.
 int cargarProductosIniciales(string nombres[], double precios[], int stocks[]) {
     string n[10] = {"Guantes", "Inguinal", "Vendas", "Bucal", "Rodilleras",
-                    "Canilleras", "Coderas", "Cabezal", "Costal", "Manoplas"};
+                    "Canilleras", "Cinturon", "Cabezal", "Costal", "Manoplas"};
     double p[10] = {45.00, 25.00, 8.00, 6.50, 22.00,
                     35.00, 20.00, 55.00, 120.00, 40.00};
     for (int i = 0; i < 10; i++) {
